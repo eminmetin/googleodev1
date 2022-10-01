@@ -1,0 +1,119 @@
+.bodycont {
+   width: 1197.600px;
+   height: 721.600px;
+}
+
+.bodybgc{
+   
+}
+
+.form {
+   display: block;
+    margin-top: 0em;
+    margin-block-end: 1em;
+}
+
+.center1{
+   text-align: center;
+   
+}
+
+.gosterge-paneli{
+   
+      width: 1197.600px;
+      height: 721.600px;
+      display: block;
+      text-align: -webkit-center;
+
+}
+
+.tablo {
+   height: 145.600px;
+   width: 1077.840;
+   border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    width: 90%
+   
+}
+
+.tablo-ici {
+   display: table-row-group;
+   vertical-align: middle;
+   border-color: inherit;
+   width: 1074.640px;
+   height: 142.400px;
+
+}
+
+
+.tr {
+   display: table-row;
+   vertical-align: inherit;
+   border-color: inherit;
+}
+
+
+.td{
+   width: 1072.640px ;
+   height: 62.400px;
+   background-color: #EEEEEE;
+   
+
+
+
+}
+
+
+h1 { 
+   text-align: center;
+}
+
+
+.linuxuortala {
+   text-align: center;
+}
+
+.kutu1 {
+   display: block;
+   width: 37%;
+   background-color: rgb(126, 229, 218);
+   display: table-cell;
+   vertical-align: inherit;
+}
+
+.kutu2 {
+   background-color: #70CCC2;
+   display: table-cell;
+   vertical-align: inherit;
+   width: 458.43px ;
+   height: 74.400px;
+}
+
+.kutu-2-icerik {
+   background-color: #5ba39b;
+   height: auto;
+   width: auto;
+   display: block;
+    text-align:center;
+    font-size: small;
+    width: 170.4px;
+    height: 110.6px;
+
+  
+}
+
+
+.kutu3 {
+   background-color: #70CCC2;
+   margin:left;
+   height: 74.4px ;
+   width: 458.425px;
+}
+
+.kutu-3-icerik {
+   font-size: small;
+   margin: auto;
+
+}
